@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.divStyle{
+    /* border: 1px solid rgb(129, 129, 129); */
+
+    height:100vh;
+    width: 1px;
+ 
+}
+
+#divSpace{
+    display: flex;
+    flex-wrap: nowrap;
+     /* height: auto; */
+    /* padding: 100px; */
+}
+
+/* .line{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    height: 20px;
+    width: 100%;
+    background-color: red;
+}
+
+
+.dot{
+    position: relative;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(32, 25, 25);
+} */
+
